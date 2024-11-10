@@ -1,0 +1,5 @@
+remera
+pantalon
+mameluco
+campera
+camisa
