@@ -1,5 +1,5 @@
-remera
-pantalon
+remera hombre
+pantalon hombre
 mameluco
 campera
 camisa
