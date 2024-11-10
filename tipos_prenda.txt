@@ -3,3 +3,5 @@ pantalon
 mameluco
 campera
 camisa
+pantalon mujer
+camisa mujer
